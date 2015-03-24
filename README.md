@@ -1,7 +1,7 @@
 # signed-tar-manifest
 
 Simple manifest generator to act as the authoritative implementation of
-the [signed tar manifest](http://sdmp.github.io/docs/signed-tar) specs.
+the [signed tar manifest](https://github.com/sdmp/signed-tar) specs.
 
 	var makeManifest = require('signed-tar-manifest')
 	var options = {
