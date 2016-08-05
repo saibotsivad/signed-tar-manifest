@@ -8,10 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sdmp/signed-tar-manifest.git"
+    "url": "git@github.com:saibotsivad/signed-tar-manifest.git"
   },
   "keywords": [
-    "sdmp",
     "signed",
     "tar",
     "manifest"
@@ -19,7 +18,7 @@
   "author": "saibotsivad",
   "license": "VOL",
   "bugs": {
-    "url": "https://github.com/sdmp/signed-tar-manifest/issues"
+    "url": "https://github.com/saibotsivad/signed-tar-manifest/issues"
   },
   "devDependencies": {
     "tap": "~0.4.4"
