@@ -1,6 +1,6 @@
 {
   "name": "signed-tar-manifest",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple signed tar manifest generator.",
   "main": "index.js",
   "scripts": {
