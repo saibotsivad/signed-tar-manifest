@@ -1,5 +1,7 @@
 # signed-tar-manifest
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/saibotsivad/signed-tar-manifest.svg)](https://greenkeeper.io/)
+
 Simple manifest generator to act as the authoritative implementation of
 the [signed tar manifest](https://github.com/sdmp/signed-tar) specs.
 
